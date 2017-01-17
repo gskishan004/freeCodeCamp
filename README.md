@@ -6,7 +6,6 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/freecodecamp/freecodecamp/badge.svg)](https://snyk.io/test/github/freecodecamp/freecodecamp)
 [![Build Status](https://travis-ci.org/freeCodeCamp/freeCodeCamp.svg?branch=staging)](https://travis-ci.org/freeCodeCamp/freeCodeCamp)
 
-Welcome to freeCodeCamp's open source codebase and curriculum!
 =======================
 
 freeCodeCamp is a friendly open source community where you learn to code and help nonprofits.
